@@ -1,0 +1,46 @@
+nav{
+    background-color: lightgrey;
+    width: 100%;
+
+}
+
+.navbutton{
+    display: inline;
+    padding: 20px;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.leftside{
+    width: 29%;
+    float: left;
+    height: 600px;
+    background-color: lightgreen;
+}
+
+.rightside{
+    width: 71%;
+    float: left;
+    height: 600px;
+    background-color: lightblue;
+}
+
+.profile{
+    text-align: center;
+    height: 200px;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+.header{
+    font-weight: bold;
+    text-align: center;
+}
+
+.stat{
+    text-align: left;
+    padding-left: 20px;
+}
